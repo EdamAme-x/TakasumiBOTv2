@@ -28,6 +28,8 @@
 - feat 新機能
 - fix 修正
 - style コードの形の変更
+- chore 互換性のあるコード以外の変更
+- docs ドキュメントの修正
 - test テスト
 - build ビルドシステム等の変更
 - change その他の変更
